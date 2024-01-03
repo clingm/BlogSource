@@ -1,0 +1,4 @@
+[submodule "tr0uble-blog/themes/blowfish"]
+	path = tr0uble-blog/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main

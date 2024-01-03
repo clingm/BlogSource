@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "tr0uble"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "PATH"
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "tr0uble"
+  image = "img/avatar.png"
+  headline = "Welcome to tr0uble's Blog"
+  bio = "A noob"
+  links = [
+    { x-twitter = "https://twitter.com/tr0ubl3102" },
+    { github = "https://github.com/clingm/" },
+  ]
+
+  
