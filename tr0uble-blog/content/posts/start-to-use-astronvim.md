@@ -1,6 +1,7 @@
 ---
 title: "Start to Use AstroNvim"
 date: 2023-12-31T14:32:11+08:00
+tags: ["AstroNvim", "IDE"]
 externalUrl: ""
 summary: ""
 showReadingTime: false

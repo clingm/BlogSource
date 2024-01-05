@@ -47,7 +47,7 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = false
+  showDate = true
   showViews = true
   showLikes = true
   showDateUpdated = false
@@ -127,7 +127,7 @@ smartTOCHideUnfocusedChildren = false
 
 [buymeacoffee]
   identifier = "nunocoracao"
-  globalWidget = true
+  globalWidget = false
   globalWidgetMessage = ""
   globalWidgetColor = "#FFDD00"
   globalWidgetPosition = "Right"
