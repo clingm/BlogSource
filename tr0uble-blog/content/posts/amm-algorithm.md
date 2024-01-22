@@ -1,6 +1,6 @@
 ---
 title: "AMM Algorithm"
-date: 2022-10-02T00:51:50+08:00
+date: 2022-10-03T00:51:50+08:00
 externalUrl: ""
 summary: ""
 showReadingTime: false
