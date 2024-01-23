@@ -1,5 +1,5 @@
 ---
-title: "Mechine Learning Start -- Linear"
+title: "Machine Learning Start -- Linear"
 date: 2024-01-21T21:52:06+08:00
 externalUrl: ""
 summary: ""

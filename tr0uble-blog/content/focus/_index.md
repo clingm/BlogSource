@@ -13,7 +13,9 @@ mathjax: false
 
 ## Short Term
 
-- [ ] 期末复习
+- [x] 期末复习 2024.1.15
+- [ ] 对西瓜书上的部分算法进行实现
+- [ ] 可能会学学rust
 
 ## Long Term
 
