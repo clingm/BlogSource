@@ -12,7 +12,12 @@ mathjax: false
 
 {{< timeline >}}
 
-{{< timelineItem icon="" header="2024.2.10 18:42" badge="rust" >}}
+{{< timelineItem icon="" header="2024.2.12" >}}
+开始拥抱alacritty + tmux
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="" header="2024.2.10" badge="rust" >}}
 rust io::stdin 的read_line方法是将读入的数据添加到参数buf后面而不是覆盖它。
 {{< /timelineItem >}}
 
